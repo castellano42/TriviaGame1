@@ -10,6 +10,7 @@ font-size:5em;
 height:100px;
 background-color:black;
 
+
 }
 
 #game-content{
@@ -19,3 +20,13 @@ width:100%;
 height:800px;
 
 }
+
+#duel-gif{
+	margin-top:40px;
+
+}
+
+/*#vader{
+	height:320px;
+	width:480;
+}*/
